@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.container{
+    max-width: 1140px;
+    height: 100%;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.definition{
+    text-align: center;
+    font-size: 50px;
+}
+.world{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
